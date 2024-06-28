@@ -1,1 +1,1 @@
-# python-project-to-check-the-validity-of-an-email
+This Python script validates user-provided email addresses based on specified criteria. It ensures that each email meets standard formatting requirements, such as length, presence of '@' symbol, and absence of spaces. This script is useful for applications needing robust email input validation to ensure data integrity and user compliance with email address standards.
